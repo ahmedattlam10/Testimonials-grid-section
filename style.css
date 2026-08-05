@@ -23,8 +23,8 @@ p{
     --purple-50-clr: hsl(261, 100%, 95%);
     --purple-300-clr: hsl(264, 82%, 80%);
     --purple-500-clr: hsl(263, 55%, 52%);
-    --Dark-blue-clr: hsl(219, 29%, 14%);
-    --Black-clr: hsl(0, 0%, 7%);
+    --dark-blue-clr: hsl(219, 29%, 14%);
+    --black-clr: hsl(0, 0%, 7%);
 
     --br: 10px;
 
@@ -92,7 +92,7 @@ body{
     font-weight: var(--fw-semibold);
 }
 
-.testimonials-container > :first-child{
+.testimonials-container .first-card{
     background-color: var(--purple-500-clr);
 }
 

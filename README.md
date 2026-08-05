@@ -6,7 +6,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Screenshot
 
-![desktop-screenshot](./images/127.0.0.1_5500_index.html.png)
+![desktop-screenshot](./images/screenshot-index.png)
 
 
 ### Links
