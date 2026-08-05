@@ -130,7 +130,7 @@ body{
 }
 
 .testimonials-container > :nth-child(4){
-    background-color: var(--Dark-blue-clr);
+    background-color: var(--dark-blue-clr);
 }
 
 .fourth-card .client-name,
